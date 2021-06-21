@@ -35,7 +35,7 @@ function ternaryTeenager(age) {
 }
 }
 
-function switch(age) {
+function switchAge(age) {
     case 13:
     case 14:
     case 15:
